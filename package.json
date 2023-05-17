@@ -2,7 +2,8 @@
   "name": "Goodnight",
   "displayName": "Goodnight",
   "description": "Goodnight Theme for visual studio code, Original Goodnight: https://github.com/wuoyrd/vs-theme-goodnight",
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "publisher": "MatheusPiovezan",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -22,5 +23,10 @@
   "galleryBanner": {
     "color": "#001E4E",
     "theme": "dark"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusPiovezan/vscode-theme-goodnight"
+  },
+  "homepage": "https://github.com/MatheusPiovezan/vscode-theme-goodnight/blob/main/README.md"
 }
