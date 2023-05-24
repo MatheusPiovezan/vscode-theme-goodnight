@@ -2,7 +2,7 @@
   "name": "Goodnight",
   "displayName": "Goodnight",
   "description": "Goodnight Theme for visual studio code, Original Goodnight: https://github.com/wuoyrd/vs-theme-goodnight",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "MatheusPiovezan",
   "engines": {
     "vscode": "^1.77.0"

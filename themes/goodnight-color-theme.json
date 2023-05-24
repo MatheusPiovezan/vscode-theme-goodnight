@@ -15,8 +15,22 @@
   },
   "tokenColors": [
     {
-      "name": "if",
+      "name": "ifts",
       "scope": "keyword.control.conditional.tsx",
+      "settings": {
+        "foreground": "#F16F64"
+      }
+    },
+    {
+      "name": "ifjs",
+      "scope": "keyword.control.conditional.js",
+      "settings": {
+        "foreground": "#F16F64"
+      }
+    },
+    {
+      "name": "ifcs",
+      "scope": "keyword.control.conditional.if.cs",
       "settings": {
         "foreground": "#F16F64"
       }
