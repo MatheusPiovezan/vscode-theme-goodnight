@@ -2,7 +2,7 @@
   "name": "Goodnight",
   "displayName": "Goodnight",
   "description": "Goodnight Theme for visual studio code, Original Goodnight: https://github.com/wuoyrd/vs-theme-goodnight",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "MatheusPiovezan",
   "engines": {
     "vscode": "^1.77.0"
@@ -16,7 +16,12 @@
       {
         "label": "Goodnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Goodnight-color-theme.json"
+        "path": "./themes/goodnight-color-theme.json"
+      },
+      {
+        "label": "Goodnight Classic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goodnight-classic-color-theme.json"
       }
     ]
   },
